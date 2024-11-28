@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.csc.TestCalculator" tests="8" skipped="0" failures="0" errors="0" timestamp="2024-11-28T23:48:44" hostname="ZEEL" time="0.104">
+  <properties/>
+  <testcase name="testSquareNumbers()" classname="com.csc.TestCalculator" time="0.04"/>
+  <testcase name="testOddsOnly()" classname="com.csc.TestCalculator" time="0.003"/>
+  <testcase name="testAverageFunctions()" classname="com.csc.TestCalculator" time="0.011"/>
+  <testcase name="testAddFive()" classname="com.csc.TestCalculator" time="0.004"/>
+  <testcase name="testEvensOnly()" classname="com.csc.TestCalculator" time="0.005"/>
+  <testcase name="testSumFunctions()" classname="com.csc.TestCalculator" time="0.004"/>
+  <testcase name="testMinimumFunctions()" classname="com.csc.TestCalculator" time="0.003"/>
+  <testcase name="testMaximumFunctions()" classname="com.csc.TestCalculator" time="0.002"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
